@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamenBatallaNaval</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="G">G</string>
+    <string name="H">H</string>
+    <string name="inicio">Comenzar</string>
+    <string name="next">Siguiente</string>
+    <string name="jugador1">Jugador 1:</string>
+    <string name="jugador2">Jugador 2:</string>
+    <string name="turno"></string>
+    <string name="direccion">Vertical   </string>
+</resources>
